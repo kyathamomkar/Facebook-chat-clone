@@ -1,6 +1,3 @@
-# University-site
-A university portal for chatting, clubs, exchange etc.
-
 <h3>Facebook chat clone <a href="http://fbclone.omkarkyatham.com/" target="_blank">Run here</a></h3>
 <ul>
 <li>
